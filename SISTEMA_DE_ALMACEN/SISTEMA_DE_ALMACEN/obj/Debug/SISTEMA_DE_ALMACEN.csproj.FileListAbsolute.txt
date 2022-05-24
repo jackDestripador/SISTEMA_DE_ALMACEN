@@ -1,0 +1,39 @@
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csprojResolveAssemblyReference.cache
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.MainForm.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csproj.GenerateResource.Cache
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.pdb
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.pdb
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmMenu.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmRegistro.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Ventas.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Aviso.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmAviso.resources
+C:\Users\marcoantonio\Documents\SharpDevelop Projects\SISTEMA_DE_ALMACEN\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmFactura.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.pdb
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csprojResolveAssemblyReference.cache
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Aviso.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmAviso.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmFactura.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmMenu.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmRegistro.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.MainForm.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Ventas.resources
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csproj.GenerateResource.Cache
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\jesus\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.pdb
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csprojResolveAssemblyReference.cache
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Aviso.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmAviso.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmFactura.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmMenu.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.frmRegistro.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.MainForm.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.Ventas.resources
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.csproj.GenerateResource.Cache
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\obj\Debug\SISTEMA_DE_ALMACEN.pdb
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.exe
+C:\Users\chuch\Documents\SISTEMA_DE_ALMACEN - copia\SISTEMA_DE_ALMACEN\bin\Debug\SISTEMA_DE_ALMACEN.pdb
